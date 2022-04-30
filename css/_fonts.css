@@ -1,0 +1,24 @@
+@font-face {
+   font-family: "Pacifico-Regular";
+   src: url("../fonts/Pacifico-Regular/Pacifico-Regular.ttf") format("ttf"),
+      url("../fonts/Pacifico-Regular/Pacifico-Regular.woff") format("woff"),
+      url("../fonts/Pacifico-Regular/Pacifico-Regular.woff2") format("woff2");
+   font-weight: 300;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Raleway-Bold";
+   src: url("../fonts/Raleway-Bold/Raleway-Bold.ttf") format("ttf"),
+      url("../fonts/Raleway-Bold/Raleway-Bold.woff") format("woff"),
+      url("../fonts/Raleway-Bold/Raleway-Bold.woff2") format("woff2");
+   font-weight: 700;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Raleway-Light";
+   src: url("../fonts/Raleway-Light/Raleway-Light.ttf") format("ttf"),
+      url("../fonts/Raleway-Light/Raleway-Light.woff") format("woff"),
+      url("../fonts/Raleway-Light/Raleway-Light.woff2") format("woff2");
+   font-weight: 300;
+   font-style: normal;
+}
